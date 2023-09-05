@@ -1,6 +1,6 @@
-
-![logo](https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276)
-![logo](https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276)
+<p align='center'>
+<img width='800' src="https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276">
+</p>
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align='right' alt='coding' width='400' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
