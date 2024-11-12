@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash160801&label=Profile%20views&color=0e75b6&style=flat" alt="akash160801" /> </p>
 
-- 🔭 I’m currently working on **Photography Portfolio**
+- 🔭 I’m currently working on **Creating Chatbot using OpenAI API**
 
-- 🌱 I’m currently learning **Framer Motion , GSAP**
+- 🌱 I’m currently learning **Framer Motion**
 
-- 💬 Ask me about **React, Nextjs, Js**
+- 💬 Ask me about **React, Nextjs, Python, SQL**
 
 - 📫 How to reach me **akash160801@gmail.com**
 
